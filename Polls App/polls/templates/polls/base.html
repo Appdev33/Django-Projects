@@ -1,0 +1,19 @@
+{% load static%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--<link rel="stylesheet" type="text/css" href="{% static 'polls/styles.css' %}"/>-->
+    <link rel=”stylesheet” href=”{% static 'polls/styles.css' %}”>
+</head>
+<body>
+<hr>
+<p>Header</p>
+
+{% block main_content %}
+{% endblock %}
+
+{% include 'polls/footer.html' %}
+</body>
+</html>
