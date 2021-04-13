@@ -1,5 +1,5 @@
 # List of Django-Projects
-Contains All Django Project
+Contains All Django Projects
 
 
 1. Basic Polls App
