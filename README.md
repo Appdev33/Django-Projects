@@ -1,4 +1,4 @@
-# Django-Projects
+# List of Django-Projects
 Contains All Django Project
 
 
