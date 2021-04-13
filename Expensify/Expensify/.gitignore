@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env-dev
+.env-prod
+index.js
+node_modules/
+package-lock.json
+package.json
